@@ -5,6 +5,8 @@ These scripts simplify the entire LFS process — toolchain, chroot system, base
 
 This project was developed as part of my **Operating Systems PBL – Custom Linux OS (LFS)**
 
+These scripts and OS are developed by [LFS book Version 12.3-systemd](LFS.pdf).
+
 ---
 
 ## 📌 Table of Contents
