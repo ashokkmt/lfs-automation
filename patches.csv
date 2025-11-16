@@ -1,0 +1,5 @@
+bzip2;1.0.8;https://www.linuxfromscratch.org/patches/lfs/12.3/bzip2-@-install_docs-1.patch;6a5ac7e89b791aae556de0f745916f7f
+coreutils-internationalization;9.6;https://www.linuxfromscratch.org/patches/lfs/12.3/coreutils-@-i18n-1.patch;6aee45dd3e05b7658971c321d92f44b7
+expect-gcc14-patch;5.45.4;https://www.linuxfromscratch.org/patches/lfs/12.3/expect-@-gcc14-1.patch;0b8b5ac411d011263ad40b0664c669f0
+glibc-fhs-patch;2.41;https://www.linuxfromscratch.org/patches/lfs/12.3/glibc-@-fhs-1.patch;9a5997c3452909b1769918c759eff8a2
+kbd-backspace/delete-fix-patch;2.7.1;https://www.linuxfromscratch.org/patches/lfs/12.3/kbd-@-backspace-1.patch;f75cca16a38da6caa7d52151f7136895
