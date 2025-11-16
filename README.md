@@ -10,7 +10,7 @@ This project was developed as part of my **Operating Systems PBL – Custom Linu
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Documentation](#documentation)
-- [License](#license)
+- [License](LICENSE)
 
 ---
 
@@ -28,8 +28,8 @@ These automation scripts allow:
 
 | File | Description |
 |------|-------------|
-| `SCRIPTS.md` | What each script do |
-| `START_HERE.md` | Guide to run the automation from scratch |
+| [`SCRIPTS.md`](SCRIPTS.md) | What each script do |
+| [`START_HERE.md`](START_HERE.md) | Guide to run the automation from scratch |
 
 ---
 
