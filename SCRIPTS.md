@@ -76,7 +76,7 @@ They are minimal, modular, and run directly inside the controlled environment cr
 
 ## 6. `insidechroot*.sh`
 
-Each _insisderoot*.sh_ file is configured to compile different chatpers in order and separately. If you want to change order, check these file. They designed to run only inside change root environment or Host B's root environment.
+Each _insisderoot*.sh_ file is configured to compile different chapters in order and separately. If you want to change order, check these file. They are designed to run only inside changed root environment or Host B's root environment.
 
 ---
 
@@ -98,7 +98,7 @@ This script prepares the target LFS root environment before entering chroot.
 - Mounts `proc`, `sysfs`, and `tmpfs` for a working chroot environment  
 - Ensures `/dev/shm` is properly mounted  
 
-This script is used by `lfs_part2.sh` to create suitable environment and mounts for changing root.
+This script is used by `lfs_part2.sh` to create a suitable environment and mounts for changing root.
 
 ## 9. `teardownroot.sh`
 This script cleanly exits the LFS chroot environment.  
