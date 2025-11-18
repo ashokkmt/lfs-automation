@@ -1,4 +1,4 @@
-# 🚀 START HERE — Prerequisites & First Steps for Running the LFS Automation
+# START HERE — Prerequisites & First Steps for Running the LFS Automation
 
 This document describes everything you must do **before** running the LFS automation scripts such as `disksetup.sh` or `lfs.sh`.
 
@@ -6,7 +6,7 @@ Follow these steps exactly.
 
 ---
 
-## 📌 Prerequisite Things
+## Prerequisite Things
 
 ### 1. Download the LFS Book  
 Download the official LFS book (systemd version) from:
